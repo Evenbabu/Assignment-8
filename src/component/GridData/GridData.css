@@ -1,0 +1,28 @@
+
+.grid-data {
+    
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+}
+
+@media (max-width:500px){
+    .cards{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+.container{
+    margin: 100px;
+}
+
+.logo{
+    height: 50px;
+}
+.logo-title{
+    display: flex;
+    gap: 5px;
+}

@@ -1,0 +1,83 @@
+[
+    {
+      "_id": "64a3f564f59072436318e811",
+      "name": "Dumbbell",
+      "description": "The dumbbell, a type of free weight, is a piece of equipment used in weight training. It is usually used individually or in pairs, with one in each hand.",
+      "quantity": 0,
+      "picture": "img/img1.png",
+      "age": "27-30",
+      "time": "25 "
+    },
+    {
+      "_id": "64a3f564187bb165beca05bc",
+      "name": "Treadmill",
+      "description": "A treadmill is a device generally used for walking, running, or climbing while staying in the same place.",
+      "quantity": 0,
+      "picture": "img/img2.png",
+      "age": "21-35",
+      "time": "30 "
+    },
+    {
+      "_id": "64a3f5642eb5f236287a78d5",
+      "name": "Barbell",
+      "description": "A barbell is a piece of exercise equipment used in weight training, bodybuilding, weightlifting, powerlifting and strongman, consisting of a long bar, usually with weights attached at each end.",
+      "quantity": 0,
+      "picture": "img/img3.png",
+      "age": "25-38",
+      "time": "27 "
+    },
+    {
+      "_id": "64a3f56462a12216efef6cc0",
+      "name": "Power rack",
+      "description": "A power rack is a piece of weight training equipment that functions as a mechanical spotter for free weight barbell exercises without the movement restrictions imposed by equipment such as the Smith machine. ",
+      "quantity": 0,
+      "picture": "img/img4.png",
+      "age": "22-35",
+      "time": "20 "
+    },
+    {
+      "_id": "64a3f56417bd983ea69f0fb6",
+      "name": "Cardio Machines",
+      "description": "Other pieces of equipment such as dumbbells, kettlebells, plyo boxes, and cardio machines can be essential too depending on how you like to work out.",
+      "quantity": 0,
+      "picture": "img/img5.png",
+      "age": "20-40",
+      "time": "25 "
+    },
+    {
+      "_id": "64a3f564e8c6ea6cee3643e4",
+      "name": "Weight plate",
+      "description": "A weight plate is a flat, heavy object, usually made of cast iron, that is used in combination with barbells or dumbbells to produce a bar with a desired total weight for the purpose of physical exercise.",
+      "quantity": 0,
+      "picture": "img/img6.png",
+      "age": "21-31",
+      "time": "23 "
+    },
+    {
+      "_id": "64a3f564c1ad2190c8aae253",
+      "name": "Pull-up Bar",
+      "description": "We mentioned that some squat racks come equipped with pull-up bars. If you opt for a stand instead, or you don't have a dedicated bar, you should remedy that.",
+      "quantity": 0,
+      "picture": "img/img7.png",
+      "age": "27-38",
+      "time": "28 "
+    },
+    {
+      "_id": "64a3f564686d2757c3885b71",
+      "name": "Fitness ball",
+      "description": "An exercise ball is a ball constructed of soft elastic, typically in 5 diameters of 10-centimeter increments, from 35 centimeters to 85 centimeters, and filled with air. The air pressure is changed by removing a valve stem and either filling with air or letting the ball deflate.",
+      "quantity": 0,
+      "picture": "img/img8.png",
+      "age": "29-31",
+      "time": "27 "
+    },
+    {
+      "_id": "64a3f564c65e94bf764bec3c",
+      "name": "Rowing machine",
+      "description": "An indoor rower, or rowing machine, is a machine used to simulate the action of watercraft rowing for the purpose of exercise or training for rowing. Modern indoor rowers are often known as ergometers because they measure work performed by the rower.",
+      "quantity": 0,
+      "picture": "img/img9.png",
+      "age": "25-37",
+      "time": "27 "
+    }
+  ]
